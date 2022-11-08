@@ -19,9 +19,9 @@ Base Ini Free Untuk Semua, Tidak Untuk Diperjualbelikan Kecuali Lu Udah Tambahin
 
 ## Connect With Me
 * [`Group WhatsApp`](https://chat.whatsapp.com/CSqakw6x2wRIOWTPL5a6a9)
-* [`Whatsapp`](https://wa.me/6285609233482?text=Assalamualaikum)
-* [`Instagram`](https://instagram.com/_nzrlafndi)
-* [`More...`](https://linktr.ee/NzrlAfndi)
+* [`Whatsapp`](https://wa.me/6285748600473?text=Assalamualaikum)
+* [`Instagram`](https://instagram.com/ydh1._)
+* [`More...`](https://lynk.id/kuroyama.com)
 
 ## Donate Me
 * [`Saweria`](https://saweria.co/Fandyy)
@@ -38,8 +38,8 @@ License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 
 ```bash
-git clone https://github.com/NzrlAfndi/Ichigo-Kurosaki
-cd Ichigo-Kurosaki
+git clone https://github.com/fourzyxd/kurosaki
+cd kurosaki
 yarn
 npm start
 ```
