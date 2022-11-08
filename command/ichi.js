@@ -254,12 +254,11 @@ case 'menu': case 'help': case '?': {
   }
   break
 case 'donasi': case 'sewa': case 'sewabot': {
-  let donasi = `Scan QR Above To Donate
+  let donasi = `Donasi anda sangat berharga
 
 Rental Bot Prices :
-💰 10k/week
-💰 25k/month
-💰 100k/year`
+Pulsa: 085748600473
+Dana : 085748600473`
   let but = [{"quickReplyButton": {"displayText": "Owner 👦","id": "owner"}}]
   ichi.sendButtonImg(m.chat, donasi, global.ownerName, global.donasi, but, global.donasi)
   }
